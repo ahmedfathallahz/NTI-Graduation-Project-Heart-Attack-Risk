@@ -1,0 +1,10 @@
+-r requirements.txt
+matplotlib
+seaborn
+ipywidgets
+xgboost
+lightgbm
+catboost
+optuna
+mlxtend
+tensorflow

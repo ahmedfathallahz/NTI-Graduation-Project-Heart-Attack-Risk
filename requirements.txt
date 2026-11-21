@@ -1,0 +1,8 @@
+streamlit>=1.50
+pandas
+numpy
+plotly>=5.20
+scikit-learn
+joblib
+openpyxl
+google-genai

@@ -25,8 +25,6 @@ A complete workflow from raw data to a deployed app: data inspection and quality
 13. [Troubleshooting](#troubleshooting)
 14. [Tech Stack](#tech-stack)
 15. [Limitations](#limitations)
-16. [Author](#author)
-
 ---
 
 ## Project Overview
@@ -274,8 +272,4 @@ You can also open the repository in **GitHub Codespaces** or **VS Code Dev Conta
 - Low precision at the high-recall threshold means many false alarms.
 - Observed associations are **descriptive and not causal**.
 
----
 
-## Author
-
-**Ahmed Fathallah** — NTI Graduation Project

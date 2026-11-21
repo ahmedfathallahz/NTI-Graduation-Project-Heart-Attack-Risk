@@ -24,7 +24,7 @@ A complete workflow from raw data to a deployed app: data inspection and quality
 12. [Getting Started](#getting-started)
 13. [Troubleshooting](#troubleshooting)
 14. [Tech Stack](#tech-stack)
-15. [Limitations](#limitations)
+
 ---
 
 ## Project Overview
@@ -262,14 +262,5 @@ You can also open the repository in **GitHub Codespaces** or **VS Code Dev Conta
 ## Tech Stack
 
 **Python** · pandas · NumPy · scikit-learn · XGBoost · LightGBM · CatBoost · Optuna · TensorFlow / Keras · mlxtend · Plotly · Streamlit · Google Gemini API
-
----
-
-## Limitations
-
-- Trained on a **sample dataset**; results are not validated for clinical use.
-- The target reflects **recorded history**, not a future outcome.
-- Low precision at the high-recall threshold means many false alarms.
-- Observed associations are **descriptive and not causal**.
 
 
